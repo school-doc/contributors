@@ -1,6 +1,6 @@
 # Repository Temporarily Unavailable
 
-This repository has been temporarily taken down due to privacy and confidentiality concerns.
+The `study` repository has been temporarily taken down due to privacy and confidentiality concerns.
 
 ---
 
